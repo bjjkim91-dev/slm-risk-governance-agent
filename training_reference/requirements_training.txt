@@ -1,0 +1,18 @@
+# QLoRA fine-tuning dependencies for Qwen2.5 7B
+# Install into a separate venv or alongside the app venv.
+#
+#   pip install -r requirements_training.txt
+#
+# NOTE: torch must be installed with CUDA support first.
+# If pip install torch doesn't pick up CUDA, use:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+
+torch
+transformers>=4.45.0
+peft>=0.13.0
+trl>=0.12.0
+datasets>=3.0.0
+bitsandbytes>=0.44.0
+accelerate>=1.0.0
+sentencepiece
+protobuf

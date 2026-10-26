@@ -1,0 +1,122 @@
+[
+  {
+    "control_process_mapping_id": "CP_001",
+    "risk_control_mapping_id": "RC_001",
+    "control_id": "C001",
+    "control_description": "AML policy defines internal control framework for regulatory compliance",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P1 — AML Program Governance: The AML program is established and maintained by the compliance department and approved by the board of directors.",
+    "why_process_assigned": "The process narrative places this control in P1; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_002",
+    "risk_control_mapping_id": "RC_002",
+    "control_id": "C002",
+    "control_description": "Compliance department maintains documented AML procedures",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P1 — AML Program Governance: The AML program is established and maintained by the compliance department and approved by the board of directors.",
+    "why_process_assigned": "The process narrative places this control in P1; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_003",
+    "risk_control_mapping_id": "RC_003",
+    "control_id": "C007",
+    "control_description": "Internal audit performs independent AML testing annually",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P8 — Compliance Testing: Internal audit or independent testing reviews the effectiveness of AML controls.",
+    "why_process_assigned": "The process narrative places this control in P8; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_004",
+    "risk_control_mapping_id": "RC_004",
+    "control_id": "C008",
+    "control_description": "External consultants conduct periodic AML compliance reviews",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P8 — Compliance Testing: Internal audit or independent testing reviews the effectiveness of AML controls.",
+    "why_process_assigned": "The process narrative places this control in P8; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_005",
+    "risk_control_mapping_id": "RC_005",
+    "control_id": "C005",
+    "control_description": "AML compliance officer responsible for program oversight",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P1 — AML Program Governance: The AML program is established and maintained by the compliance department and approved by the board of directors.",
+    "why_process_assigned": "The process narrative places this control in P1; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_006",
+    "risk_control_mapping_id": "RC_006",
+    "control_id": "C009",
+    "control_description": "AML training provided to all relevant employees annually",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P9 — Employee Training: Employees receive AML compliance training relevant to their roles.",
+    "why_process_assigned": "The process narrative places this control in P9; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_007",
+    "risk_control_mapping_id": "RC_007",
+    "control_id": "C013",
+    "control_description": "Customer risk profile created during onboarding",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P2 — Customer Due Diligence: Customer identification and risk profile information is collected during onboarding and assigned a risk rating.",
+    "why_process_assigned": "The process narrative places this control in P2; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_008",
+    "risk_control_mapping_id": "RC_008",
+    "control_id": "C003",
+    "control_description": "System monitoring rules detect suspicious transaction patterns",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P4 — Transaction Monitoring: Transactions are continuously monitored using automated monitoring systems.",
+    "why_process_assigned": "The process narrative places this control in P4; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_009",
+    "risk_control_mapping_id": "RC_009",
+    "control_id": "C017",
+    "control_description": "SAR filing procedures defined in AML policy",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P6 — Suspicious Activity Reporting: If suspicious activity is confirmed, the compliance team prepares and files a Suspicious Activity Report.",
+    "why_process_assigned": "The process narrative places this control in P6; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_010",
+    "risk_control_mapping_id": "RC_010",
+    "control_id": "C019",
+    "control_description": "Periodic customer information refresh process",
+    "process_id": "PROC-001",
+    "process_name": "AML Compliance Monitoring and Customer Due Diligence",
+    "process_step": "P7 — Ongoing Customer Monitoring: Customer information and risk profiles are periodically updated.",
+    "why_process_assigned": "The process narrative places this control in P7; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  }
+]

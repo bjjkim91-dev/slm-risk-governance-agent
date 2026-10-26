@@ -1,0 +1,58 @@
+[
+  {
+    "input_risk_mapping_id": "UI_001",
+    "source_document": "31 CFR 1020.320 (up to date as of 3-12-2026).pdf",
+    "source_ref": "\u00a7 1020.320 Reports by banks of suspicious transactions.",
+    "requirement_theme": "Suspicious Transactions Reporting",
+    "risk_id": "RISK-001",
+    "risk_statement": "Failure to file a report of any suspicious transaction relevant to a possible violation of law or regulation may result in regulatory penalties and reputational damage.",
+    "risk_category": "Compliance",
+    "severity": "High",
+    "why_identified": "This obligation explicitly mandates reporting of suspicious transactions, which directly impacts compliance with financial regulations and could lead to significant legal consequences.",
+    "source_quote": "Every bank shall file with the Treasury Department, to the extent and in the manner required by this section, a report of any suspicious transaction relevant to a possible violation of law or regulation. A bank may also file with the Treasury Department by using the Suspicious Activity Report specified in paragraph (b)(1) of this section or otherwise, a report of any suspicious transaction that it believes is relevant to the possible violation of any law or regulation but whose reporting is not required by this section.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "input_risk_mapping_id": "UI_002",
+    "source_document": "31 CFR 1020.320 (up to date as of 3-12-2026).pdf",
+    "source_ref": "\u00a7 31 CFR 1020.320(b)(2)",
+    "requirement_theme": "Reporting Suspicious Transactions",
+    "risk_id": "RISK-002",
+    "risk_statement": "Failure to file a SAR within 30 calendar days of initial detection of facts that may constitute a basis for filing a SAR may result in regulatory penalties.",
+    "risk_category": "Compliance",
+    "severity": "Medium",
+    "why_identified": "The obligation is clearly stated as requiring timely reporting, and failure to do so can lead to legal or regulatory consequences.",
+    "source_quote": "31 CFR 1020.320(b)(2) (enhanced display)\n\nWhen to file. A bank is required to file a SAR no later than 30 calendar days after the date of initial detection by the bank of facts that may constitute a basis for filing a SAR. If no suspect was identified on the date of the detection of the incident requiring the filing, a bank may delay filing a SAR for an additional 30 calendar days to identify a suspect. In no case shall reporting be delayed more than 60 calendar days after the date of initial detection of a reportable transaction. In situations involving violations that require immediate attention, such as, for example, ongoing money laundering schemes, the bank shall immediately notify, by telephone, an appropriate law enforcement authority in addition to filing timely a SAR.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "input_risk_mapping_id": "UI_003",
+    "source_document": "31 CFR 1020.320 (up to date as of 3-12-2026).pdf",
+    "source_ref": "(2)",
+    "requirement_theme": "Reporting Suspicious Transactions",
+    "risk_id": "RISK-003",
+    "risk_statement": "Failure to disclose suspicious transactions may result in regulatory noncompliance.",
+    "risk_category": "Compliance",
+    "severity": "High",
+    "why_identified": "This obligation mandates disclosure of suspicious transactions, which is a critical aspect of financial crime prevention and compliance with the Bank Secrecy Act.",
+    "source_quote": "The underlying facts, transactions, and documents upon which a SAR is based, including but not limited to, disclosures: 31 CFR 1020.320 (up to date as of 3/12/2026) Reports by banks of suspicious transactions.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "input_risk_mapping_id": "UI_004",
+    "source_document": "31 CFR 1020.320 (up to date as of 3-12-2026).pdf",
+    "source_ref": "(2)",
+    "requirement_theme": "Prohibition on Disclosures by Government Authorities",
+    "risk_id": "RISK-004",
+    "risk_statement": "Failure to comply with the prohibition on disclosures by government authorities may result in regulatory noncompliance.",
+    "risk_category": "Compliance",
+    "severity": "High",
+    "why_identified": "This obligation restricts government agencies from disclosing SARs without official duties consistent with Title II of the Bank Secrecy Act. Failure to comply can lead to legal penalties and reputational damage.",
+    "source_quote": "(i) To another financial institution, or any director, officer, employee, or agent of a financial institution, for the preparation of a joint SAR; or (ii) In connection with certain employment references or termination notices, to the full extent authorized in 31 U.S.C. 5318(g)(2)(B); or (B) The sharing by a bank, or any director, officer, employee, or agent of the bank, of a SAR, or any information that would reveal the existence of a SAR, within the bank's corporate organizational structure for purposes consistent with Title II of the Bank Secrecy Act as determined by regulation or in guidance.",
+    "user_status": "Proposed",
+    "user_notes": null
+  }
+]

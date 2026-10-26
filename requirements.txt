@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+requests
+openpyxl
+PyMuPDF
+python-docx
+fpdf2
+pydantic

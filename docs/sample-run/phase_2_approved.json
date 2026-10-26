@@ -1,0 +1,41 @@
+[
+  {
+    "risk_control_mapping_id": "RC_001",
+    "input_risk_mapping_id": "UI_001",
+    "risk_id": "RISK-001",
+    "risk_statement": "Failure to file a report of any suspicious transaction relevant to a possible violation of law or regulation may result in regulatory penalties and reputational damage.",
+    "control_id": "C001",
+    "control_description": "Transaction monitoring system generates alerts for scenarios involving cash structuring, rapid movement of funds, and unusual account behavior",
+    "why_control_assigned": "The transaction monitoring system's alert generation directly addresses the failure to file a report of suspicious transactions by identifying them and triggering alerts. This helps ensure timely reporting of potential violations.",
+    "control_type": "Detective",
+    "execution_type": "Automated",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "risk_control_mapping_id": "RC_002",
+    "input_risk_mapping_id": "UI_002",
+    "risk_id": "RISK-002",
+    "risk_statement": "Failure to file a SAR within 30 calendar days of initial detection of facts that may constitute a basis for filing a SAR may result in regulatory penalties.",
+    "control_id": "C004",
+    "control_description": "Alerts are routed automatically to AML investigators through a case management system",
+    "why_control_assigned": "The automatic routing of alerts to AML investigators directly addresses the failure to file a SAR within 30 days. This ensures timely escalation and investigation of suspicious activities.",
+    "control_type": "Detective",
+    "execution_type": "Automated",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "risk_control_mapping_id": "RC_003",
+    "input_risk_mapping_id": "UI_003",
+    "risk_id": "RISK-003",
+    "risk_statement": "Failure to disclose suspicious transactions may result in regulatory noncompliance.",
+    "control_id": "C002",
+    "control_description": "Transaction monitoring rules include a threshold logic for transactions or aggregated activity of $5,000 or more",
+    "why_control_assigned": "The transaction monitoring rules with thresholds help identify suspicious activities that may require disclosure. This helps ensure compliance with regulatory requirements.",
+    "control_type": "Detective",
+    "execution_type": "Automated",
+    "user_status": "Proposed",
+    "user_notes": null
+  }
+]

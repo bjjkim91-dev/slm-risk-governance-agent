@@ -1,0 +1,122 @@
+[
+  {
+    "control_process_mapping_id": "CP_001",
+    "risk_control_mapping_id": "RC_001",
+    "control_id": "C001",
+    "control_description": "Customer onboarding system requires entry of customer name before submission",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P2 — Customer Information Collection: Required identifying information (name, date of birth, address, identification number) is entered into the onboarding system.",
+    "why_process_assigned": "The process narrative places this control in P2; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_002",
+    "risk_control_mapping_id": "RC_002",
+    "control_id": "C005",
+    "control_description": "System validation prevents account creation when required identifying information fields are missing",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P2 — Customer Information Collection: Required identifying information (name, date of birth, address, identification number) is entered into the onboarding system.",
+    "why_process_assigned": "The process narrative places this control in P2; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_003",
+    "risk_control_mapping_id": "RC_003",
+    "control_id": "C006",
+    "control_description": "Customer must upload government-issued identification document during onboarding",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P3 — Identity Document Collection: Customer provides government-issued identification documentation.",
+    "why_process_assigned": "The process narrative places this control in P3; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_004",
+    "risk_control_mapping_id": "RC_004",
+    "control_id": "C008",
+    "control_description": "Third-party service used to verify customer identity information",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P4 — Automated Identity Verification: The onboarding system performs validation checks and compares identity information with external verification databases.",
+    "why_process_assigned": "The process narrative places this control in P4; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_005",
+    "risk_control_mapping_id": "RC_005",
+    "control_id": "C010",
+    "control_description": "Compliance officer approves onboarding file before account activation",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P7 — Compliance Approval: Compliance officer reviews onboarding documentation and confirms identity verification completion.",
+    "why_process_assigned": "The process narrative places this control in P7; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_006",
+    "risk_control_mapping_id": "RC_006",
+    "control_id": "C011",
+    "control_description": "System prevents account activation when identity verification is incomplete",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P8 — Account Activation: Account is activated once identity verification requirements are satisfied.",
+    "why_process_assigned": "The process narrative places this control in P8; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_007",
+    "risk_control_mapping_id": "RC_007",
+    "control_id": "C029",
+    "control_description": "Procedures exist for closing accounts when identity cannot be verified",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P9 — Exception Handling: If identity cannot be verified, escalation procedures are triggered and account access may be restricted or the account closed.",
+    "why_process_assigned": "The process narrative places this control in P9; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_008",
+    "risk_control_mapping_id": "RC_008",
+    "control_id": "C021",
+    "control_description": "Identity verification records retained according to retention policy",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P10 — Monitoring and QA: Quality assurance staff review onboarding records to ensure compliance with CIP procedures.",
+    "why_process_assigned": "The process narrative places this control in P10; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_009",
+    "risk_control_mapping_id": "RC_009",
+    "control_id": "C028",
+    "control_description": "System checks customer against government watchlists",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P5 — Watchlist Screening: Customer identity information is screened against government-issued lists of known or suspected terrorists.",
+    "why_process_assigned": "The process narrative places this control in P5; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_010",
+    "risk_control_mapping_id": "RC_010",
+    "control_id": "C023",
+    "control_description": "Monthly quality assurance review of onboarding files",
+    "process_id": "PROC-001",
+    "process_name": "Customer Onboarding and Identity Verification",
+    "process_step": "P10 — Monitoring and QA: Quality assurance staff review onboarding records to ensure compliance with CIP procedures.",
+    "why_process_assigned": "The process narrative places this control in P10; this step is where the control is operationalized.",
+    "user_status": "Proposed",
+    "user_notes": null
+  }
+]

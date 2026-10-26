@@ -1,0 +1,18 @@
+{
+  "session_id": "session1_03202055",
+  "session_name": "session1_03202055",
+  "updated_at": "2026-03-20T20:57:35.821023",
+  "phases_complete": {
+    "phase_1": true,
+    "phase_2": true,
+    "phase_3": true
+  },
+  "counts": {
+    "risks": 4,
+    "controls": 3,
+    "control_mappings": 3,
+    "processes": 1,
+    "process_mappings": 2
+  },
+  "has_verdict": false
+}

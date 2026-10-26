@@ -1,0 +1,26 @@
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+
+# Runtime uploads and exports (per-session; do not ship user documents)
+data/uploads/*
+!data/uploads/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+
+# AI-assistant local config and logs — never committed
+.claude/
+CLAUDE.md
+.mcp.json
+*.local.json
+
+# Model artifacts (train locally; see training_reference/README.md)
+training_reference/adapters/
+training_reference/gguf/
+training_reference/merged/
+# written by export_to_ollama.py
+training_reference/modelfiles_ft/Modelfile.phase[0-9]
+*.gguf
+*.safetensors

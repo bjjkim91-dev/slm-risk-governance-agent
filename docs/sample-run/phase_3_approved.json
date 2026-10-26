@@ -1,0 +1,26 @@
+[
+  {
+    "control_process_mapping_id": "CP_001",
+    "risk_control_mapping_id": "RC_001",
+    "control_id": "C001",
+    "control_description": "Transaction monitoring system generates alerts for scenarios involving cash structuring, rapid movement of funds, and unusual account behavior",
+    "process_id": "P1",
+    "process_name": "Suspicious Activity Detection, Investigation, and SAR Filing",
+    "process_step": "P1 \u2014 Transaction Monitoring",
+    "why_process_assigned": "The control operates within the transaction monitoring platform where automated scenarios identify potentially suspicious activity based on defined typologies and thresholds.",
+    "user_status": "Proposed",
+    "user_notes": null
+  },
+  {
+    "control_process_mapping_id": "CP_002",
+    "risk_control_mapping_id": "RC_002",
+    "control_id": "C004",
+    "control_description": "Alerts are routed automatically to AML investigators through a case management system",
+    "process_id": "P2",
+    "process_name": "Suspicious Activity Detection, Investigation, and SAR Filing",
+    "process_step": "P2 \u2014 Alert Generation and Queueing",
+    "why_process_assigned": "The control operates within the case management system where generated alerts are assigned to AML investigators based on risk, queue, and investigator capacity.",
+    "user_status": "Proposed",
+    "user_notes": null
+  }
+]
